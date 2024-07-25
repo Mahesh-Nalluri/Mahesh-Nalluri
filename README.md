@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mahesh Chowdary Nalluri</h1>
 <h3 align="center">Cyber Security Enthusiast Student</h3>
 
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fadcy.io%2Fviewing-a-gif-in-microsoft-teams-allows-hackers-to-takeover-accounts%2F&psig=AOvVaw1ksfGovKj19hyS5jG3pMc7&ust=1721988789713000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCPDV76L6wYcDFQAAAAAdAAAAABAZ"
+<img align="right" alt="https://adcy.io/wp-content/uploads/2020/04/anti-hacking.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahesh-nalluri&label=Profile%20views&color=0e75b6&style=flat" alt="mahesh-nalluri" /> </p>
 

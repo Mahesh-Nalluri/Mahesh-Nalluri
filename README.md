@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mahesh Chowdary Nalluri</h1>
 <h3 align="center">Cyber Security Enthusiast Student</h3>
 
-<img align="right" alt="https://adcy.io/wp-content/uploads/2020/04/anti-hacking.gif">
+<img align="right" alt="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahesh-nalluri&label=Profile%20views&color=0e75b6&style=flat" alt="mahesh-nalluri" /> </p>
 

@@ -12,7 +12,7 @@
 
 - ⚡ Fun fact **I'm Funny 😅**
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahesh-nalluri" alt="mahesh-nalluri" /></a> </p>
+
 
 <p align="left"> <a href="https://twitter.com/boostlover__" target="blank"><img src="https://img.shields.io/twitter/follow/boostlover__?logo=twitter&style=for-the-badge" alt="boostlover__" /></a> </p>
 

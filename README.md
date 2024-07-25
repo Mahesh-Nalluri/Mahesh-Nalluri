@@ -1,3 +1,4 @@
+![logo](https://github.com/Mahesh-Nalluri/Mahesh-Nalluri/blob/main/myself%20new.png)
 <h1 align="center">Hi 👋, I'm Mahesh Chowdary Nalluri</h1>
 <h3 align="center">IoT Student ⚡ || Script Kiddie 🧑‍💻 || Graphic Designer 🎨 || Event Management 🔰|| Student Coordinator 🎯 || Discord Developer of Telugu Gaming Community 🎮 || Workaholic 🤵</h3>
 
